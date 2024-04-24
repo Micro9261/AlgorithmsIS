@@ -1,1 +1,1 @@
-Created for storage of many kinds od algorithms used in time of academic classes.
+Created for storage of many algorithms kinds used during academic classes.
